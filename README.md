@@ -1,3 +1,3 @@
-﻿# DAFE1000-oblig-template
+# Oblig 2
 
-<Replace with full name and OsloMet email address>
+## William Rinaldo - wirin4421@oslomet.no
